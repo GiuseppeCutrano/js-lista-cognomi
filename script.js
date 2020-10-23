@@ -5,10 +5,10 @@
 
 
 // Dichiarazione delle variabili
-var cognome
-var tuocognome
-var list
-var elenco
+var cognome;
+var tuocognome;
+var list;
+var elenco;
 
 // Lista dei nostri cognomi
 list = ['Bianchi', 'Rossi', 'Duzioni', 'Balsano', 'Verdi'];
